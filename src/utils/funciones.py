@@ -1,7 +1,10 @@
+import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import math
+from scipy.stats import mannwhitneyu
+
 
 def cardinalidad(df_in, umbral_categoria, umbral_continua):
     """
