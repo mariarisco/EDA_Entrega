@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Mapa qgis
+Mapas_Deforestacion.qgz
+
 # C extensions
 *.so
 
